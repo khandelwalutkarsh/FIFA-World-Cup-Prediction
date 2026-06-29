@@ -1,105 +1,114 @@
-match_number,Home Team,Away Team,Home Win %,Away Win %,Draw %
-Match 1,Mexico,South Africa,73.5,11.3,15.2
-Match 2,South Korea,Czech Republic,55.4,21.2,23.4
-Match 3,Canada,Bosnia and Herzegovina,61.0,17.3,21.7
-Match 4,United States,Paraguay,65.5,16.2,18.3
-Match 5,Haiti,Scotland,13.7,49.1,37.2
-Match 6,Australia,Kosovo,57.6,21.5,21.0
-Match 7,Brazil,Morocco,57.2,26.6,16.2
-Match 8,Qatar,Switzerland,21.2,50.8,27.9
-Match 9,Ivory Coast,Ecuador,47.6,28.4,24.0
-Match 10,Germany,Curaçao,78.6,7.2,14.2
-Match 11,Netherlands,Japan,62.0,20.9,17.1
-Match 12,Albania,Tunisia,41.6,27.7,30.7
-Match 13,Saudi Arabia,Uruguay,23.6,46.6,29.8
-Match 14,Spain,Cabo Verde,77.5,8.3,14.2
-Match 15,Iran,New Zealand,75.2,8.8,15.9
-Match 16,Belgium,Egypt,65.0,17.3,17.8
-Match 17,France,Senegal,64.8,17.6,17.6
-Match 18,Bolivia,Norway,30.8,38.8,30.4
-Match 19,Argentina,Algeria,69.8,13.6,16.6
-Match 20,Austria,Jordan,71.0,11.8,17.2
-Match 21,Ghana,Panama,27.1,38.4,34.5
-Match 22,England,Croatia,60.6,22.6,16.8
-Match 23,Portugal,DR Congo,71.0,12.5,16.5
-Match 24,Uzbekistan,Colombia,18.3,55.8,25.9
-Match 25,Czech Republic,South Africa,43.0,28.5,28.6
-Match 26,Switzerland,Bosnia and Herzegovina,71.2,12.0,16.8
-Match 27,Canada,Qatar,60.7,17.4,21.9
-Match 28,Mexico,South Korea,67.5,15.6,16.9
-Match 29,Brazil,Haiti,82.9,5.4,11.7
-Match 30,Scotland,Morocco,27.5,50.2,22.3
-Match 31,Kosovo,Paraguay,35.4,33.7,30.9
-Match 32,United States,Australia,61.9,19.4,18.7
-Match 33,Germany,Ivory Coast,64.6,17.3,18.1
-Match 34,Ecuador,Curaçao,72.4,10.1,17.4
-Match 35,Netherlands,Albania,72.4,12.6,15.1
-Match 36,Tunisia,Japan,22.6,49.7,27.7
-Match 37,Uruguay,Cabo Verde,70.1,12.8,17.1
-Match 38,Spain,Saudi Arabia,76.3,8.9,14.8
-Match 39,Belgium,Iran,63.4,18.5,18.1
-Match 40,New Zealand,Egypt,11.6,54.9,33.5
-Match 41,Norway,Senegal,51.3,28.2,20.5
-Match 42,France,Bolivia,73.7,11.1,15.2
-Match 43,Argentina,Austria,68.3,14.4,17.3
-Match 44,Jordan,Algeria,17.5,49.4,33.1
-Match 45,England,Ghana,78.0,8.0,14.0
-Match 46,Panama,Croatia,29.3,46.9,23.8
-Match 47,Portugal,Uzbekistan,75.5,9.6,14.9
-Match 48,Colombia,DR Congo,69.2,13.6,17.2
-Match 49,Scotland,Brazil,27.0,51.0,22.1
-Match 50,Morocco,Haiti,82.4,5.6,12.0
-Match 51,Switzerland,Canada,61.7,19.3,19.0
-Match 52,Bosnia and Herzegovina,Qatar,34.2,32.1,33.7
-Match 53,Czech Republic,Mexico,25.3,50.0,24.6
-Match 54,South Africa,South Korea,30.6,38.8,30.5
-Match 55,Curaçao,Ivory Coast,13.9,52.5,33.6
-Match 56,Ecuador,Germany,45.6,34.5,19.9
-Match 57,Japan,Albania,65.9,16.4,17.7
-Match 58,Tunisia,Netherlands,17.9,58.3,23.8
-Match 59,Kosovo,United States,26.4,45.8,27.8
-Match 60,Paraguay,Australia,43.6,31.1,25.3
-Match 61,Norway,France,34.4,50.2,15.5
-Match 62,Senegal,Bolivia,65.5,16.8,17.7
-Match 63,Egypt,Iran,51.1,26.7,22.2
-Match 64,New Zealand,Belgium,7.8,66.3,25.8
-Match 65,Cabo Verde,Saudi Arabia,31.0,34.7,34.3
-Match 66,Uruguay,Spain,39.3,44.8,15.9
-Match 67,Panama,England,22.8,57.4,19.8
-Match 68,Croatia,Ghana,73.7,10.3,16.0
-Match 69,Algeria,Austria,48.9,27.6,23.5
-Match 70,Jordan,Argentina,7.5,75.0,17.5
-Match 71,Colombia,Portugal,53.2,29.4,17.4
-Match 72,DR Congo,Uzbekistan,51.9,22.3,25.8
-Match 73,Group A runners-up,Group B runners-up,37.6,33.2,29.3
-Match 74,Group E winners,Group A,37.6,33.2,29.3
-Match 75,Group F winners,Group C runners-up,37.6,33.2,29.3
-Match 76,Group C winners,Group F runners-up,37.6,33.2,29.3
-Match 77,Group I winners,Group C,37.6,33.2,29.3
-Match 78,Group E runners up,Group I runners-up,37.6,33.2,29.3
-Match 79,Group A winners,Group C,37.6,33.2,29.3
-Match 80,Group L winners,Group E,37.6,33.2,29.3
-Match 81,Group D winners,Group B,37.6,33.2,29.3
-Match 82,Group G winners,Group A,37.6,33.2,29.3
-Match 83,Group K runners-up,Group L runners-up,37.6,33.2,29.3
-Match 84,Group H winners,Group J runners-up,37.6,33.2,29.3
-Match 85,Group B winners,Group E,37.6,33.2,29.3
-Match 86,Group J winners,Group H runners-up,37.6,33.2,29.3
-Match 87,Group K winners,Group D,37.6,33.2,29.3
-Match 88,Group D runners-up,Group G runners-up,37.6,33.2,29.3
-Match 89,Winner match 74,Winner match 77,37.6,33.2,29.3
-Match 90,Winner match 73,Winner match 75,37.6,33.2,29.3
-Match 91,Winner match 76,Winner match 78,37.6,33.2,29.3
-Match 92,Winner match 79,Winner match 80,37.6,33.2,29.3
-Match 93,Winner match 83,Winner match 84,37.6,33.2,29.3
-Match 94,Winner match 81,Winner match 82,37.6,33.2,29.3
-Match 95,Winner match 86,Winner match 88,37.6,33.2,29.3
-Match 96,Winner match 85,Winner match 87,37.6,33.2,29.3
-Match 97,Winner match 89,Winner match 90,37.6,33.2,29.3
-Match 98,Winner match 93,Winner match 94,37.6,33.2,29.3
-Match 99,Winner match 91,Winner match 92,37.6,33.2,29.3
-Match 100,Winner match 95,Winner match 96,37.6,33.2,29.3
-Match 101,Winner match 97,Winner match 98,37.6,33.2,29.3
-Match 102,Winner match 99,Winner match 100,37.6,33.2,29.3
-Match 103,Runner-up match 101,Runner-up match 102,37.6,33.2,29.3
-Match 104,Winner match 101,Winner match 102,37.6,33.2,29.3
+===========================================================================================================================
+MATCH      | STAGE/GROUP          | HOME TEAM                vs AWAY TEAM                | PROBS (H/A/D)        | PREDICTED WINNER
+===========================================================================================================================
+Match 1    | Group A              | Mexico                   vs South Africa             | 73.5% / 11.3% / 15.2% | Mexico
+Match 2    | Group A              | South Korea              vs Czech Republic           | 55.4% / 21.2% / 23.4% | South Korea
+Match 3    | Group B              | Canada                   vs Bosnia and Herzegovina   | 61.0% / 17.3% / 21.7% | Canada
+Match 4    | Group D              | United States            vs Paraguay                 | 65.5% / 16.2% / 18.3% | United States
+Match 5    | Group C              | Haiti                    vs Scotland                 | 13.7% / 49.1% / 37.2% | Scotland
+Match 6    | Group D              | Australia                vs Kosovo                   | 56.1% / 19.3% / 24.6% | Australia
+Match 7    | Group C              | Brazil                   vs Morocco                  | 57.2% / 26.6% / 16.2% | Brazil
+Match 8    | Group B              | Qatar                    vs Switzerland              | 49.8% / 31.0% / 19.2% | Qatar
+Match 9    | Group E              | Ivory Coast              vs Ecuador                  | 47.6% / 28.4% / 24.0% | Ivory Coast
+Match 10   | Group E              | Germany                  vs Curaçao                  | 67.7% / 13.0% / 19.3% | Germany
+Match 11   | Group F              | Netherlands              vs Japan                    | 62.0% / 20.9% / 17.1% | Netherlands
+Match 12   | Group F              | Albania                  vs Tunisia                  | 66.2% / 15.8% / 18.0% | Albania
+Match 13   | Group H              | Saudi Arabia             vs Uruguay                  | 23.6% / 46.6% / 29.8% | Uruguay
+Match 14   | Group H              | Spain                    vs Cabo Verde               | 71.9% / 10.3% / 17.9% | Spain
+Match 15   | Group G              | Iran                     vs New Zealand              | 75.2% / 8.8% / 15.9% | Iran
+Match 16   | Group G              | Belgium                  vs Egypt                    | 65.0% / 17.3% / 17.8% | Belgium
+Match 17   | Group I              | France                   vs Senegal                  | 64.8% / 17.6% / 17.6% | France
+Match 18   | Group I              | Bolivia                  vs Norway                   | 55.0% / 24.9% / 20.0% | Bolivia
+Match 19   | Group J              | Argentina                vs Algeria                  | 69.8% / 13.6% / 16.6% | Argentina
+Match 20   | Group J              | Austria                  vs Jordan                   | 61.5% / 16.7% / 21.8% | Austria
+Match 21   | Group L              | Ghana                    vs Panama                   | 27.1% / 38.4% / 34.5% | Panama
+Match 22   | Group L              | England                  vs Croatia                  | 60.6% / 22.6% / 16.8% | England
+Match 23   | Group K              | Portugal                 vs DR Congo                 | 70.3% / 11.7% / 18.1% | Portugal
+Match 24   | Group K              | Uzbekistan               vs Colombia                 | 46.2% / 35.3% / 18.5% | Uzbekistan
+Match 25   | Group A              | Czech Republic           vs South Africa             | 43.0% / 28.5% / 28.6% | Czech Republic
+Match 26   | Group B              | Switzerland              vs Bosnia and Herzegovina   | 71.2% / 12.0% / 16.8% | Switzerland
+Match 27   | Group B              | Canada                   vs Qatar                    | 54.4% / 20.2% / 25.5% | Canada
+Match 28   | Group A              | Mexico                   vs South Korea              | 67.5% / 15.6% / 16.9% | Mexico
+Match 29   | Group C              | Brazil                   vs Haiti                    | 82.9% / 5.4% / 11.7% | Brazil
+Match 30   | Group C              | Scotland                 vs Morocco                  | 27.5% / 50.2% / 22.3% | Morocco
+Match 31   | Group D              | Kosovo                   vs Paraguay                 | 60.0% / 20.6% / 19.4% | Kosovo
+Match 32   | Group D              | United States            vs Australia                | 61.9% / 19.4% / 18.7% | United States
+Match 33   | Group E              | Germany                  vs Ivory Coast              | 64.6% / 17.3% / 18.1% | Germany
+Match 34   | Group E              | Ecuador                  vs Curaçao                  | 59.8% / 17.5% / 22.7% | Ecuador
+Match 35   | Group F              | Netherlands              vs Albania                  | 70.9% / 11.3% / 17.8% | Netherlands
+Match 36   | Group F              | Tunisia                  vs Japan                    | 22.6% / 49.7% / 27.7% | Japan
+Match 37   | Group H              | Uruguay                  vs Cabo Verde               | 63.5% / 15.5% / 21.0% | Uruguay
+Match 38   | Group H              | Spain                    vs Saudi Arabia             | 76.3% / 8.9% / 14.7% | Spain
+Match 39   | Group G              | Belgium                  vs Iran                     | 63.4% / 18.5% / 18.1% | Belgium
+Match 40   | Group G              | New Zealand              vs Egypt                    | 11.6% / 54.9% / 33.5% | Egypt
+Match 41   | Group I              | Norway                   vs Senegal                  | 51.3% / 28.2% / 20.5% | Norway
+Match 42   | Group I              | France                   vs Bolivia                  | 72.1% / 10.0% / 17.9% | France
+Match 43   | Group J              | Argentina                vs Austria                  | 68.3% / 14.4% / 17.3% | Argentina
+Match 44   | Group J              | Jordan                   vs Algeria                  | 56.5% / 24.0% / 19.5% | Jordan
+Match 45   | Group L              | England                  vs Ghana                    | 78.0% / 8.0% / 14.0% | England
+Match 46   | Group L              | Panama                   vs Croatia                  | 29.3% / 46.9% / 23.8% | Croatia
+Match 47   | Group K              | Portugal                 vs Uzbekistan               | 70.3% / 11.7% / 18.1% | Portugal
+Match 48   | Group K              | Colombia                 vs DR Congo                 | 68.5% / 12.6% / 18.9% | Colombia
+Match 49   | Group C              | Scotland                 vs Brazil                   | 27.0% / 51.0% / 22.1% | Brazil
+Match 50   | Group C              | Morocco                  vs Haiti                    | 82.4% / 5.6% / 12.0% | Morocco
+Match 51   | Group B              | Switzerland              vs Canada                   | 61.7% / 19.3% / 19.0% | Switzerland
+Match 52   | Group B              | Bosnia and Herzegovina   vs Qatar                    | 28.6% / 34.9% / 36.5% | Draw
+Match 53   | Group A              | Czech Republic           vs Mexico                   | 25.3% / 50.0% / 24.6% | Mexico
+Match 54   | Group A              | South Africa             vs South Korea              | 30.6% / 38.8% / 30.5% | South Korea
+Match 55   | Group E              | Curaçao                  vs Ivory Coast              | 57.3% / 23.3% / 19.5% | Curaçao
+Match 56   | Group E              | Ecuador                  vs Germany                  | 45.6% / 34.5% / 19.9% | Ecuador
+Match 57   | Group F              | Japan                    vs Albania                  | 64.4% / 14.8% / 20.8% | Japan
+Match 58   | Group F              | Tunisia                  vs Netherlands              | 17.9% / 58.3% / 23.8% | Netherlands
+Match 59   | Group D              | Kosovo                   vs United States            | 49.7% / 31.0% / 19.3% | Kosovo
+Match 60   | Group D              | Paraguay                 vs Australia                | 43.6% / 31.1% / 25.3% | Paraguay
+Match 61   | Group I              | Norway                   vs France                   | 34.4% / 50.2% / 15.5% | France
+Match 62   | Group I              | Senegal                  vs Bolivia                  | 64.0% / 15.1% / 20.9% | Senegal
+Match 63   | Group G              | Egypt                    vs Iran                     | 51.1% / 26.7% / 22.2% | Egypt
+Match 64   | Group G              | New Zealand              vs Belgium                  | 7.8% / 66.3% / 25.8% | Belgium
+Match 65   | Group H              | Cabo Verde               vs Saudi Arabia             | 66.3% / 15.8% / 17.9% | Cabo Verde
+Match 66   | Group H              | Uruguay                  vs Spain                    | 39.3% / 44.8% / 15.9% | Spain
+Match 67   | Group L              | Panama                   vs England                  | 22.8% / 57.4% / 19.8% | England
+Match 68   | Group L              | Croatia                  vs Ghana                    | 73.7% / 10.3% / 16.0% | Croatia
+Match 69   | Group J              | Algeria                  vs Austria                  | 48.9% / 27.6% / 23.5% | Algeria
+Match 70   | Group J              | Jordan                   vs Argentina                | 33.9% / 51.5% / 14.6% | Argentina
+Match 71   | Group K              | Colombia                 vs Portugal                 | 53.2% / 29.4% / 17.4% | Colombia
+Match 72   | Group K              | DR Congo                 vs Uzbekistan               | 61.0% / 17.8% / 21.1% | DR Congo
+---------------------------------------------------------------------------------------------------------------------------
+Match 73   | Round of 32          | South Korea              vs Canada                   | 48.5% / 27.6%        | South Korea
+Match 74   | Round of 32          | Ivory Coast              vs Czech Republic           | 56.2% / 20.7%        | Ivory Coast
+Match 75   | Round of 32          | Netherlands              vs Morocco                  | 55.4% / 27.8%        | Netherlands
+Match 76   | Round of 32          | Brazil                   vs Japan                    | 63.6% / 19.9%        | Brazil
+Match 77   | Round of 32          | France                   vs Scotland                 | 73.1% / 10.7%        | France
+Match 78   | Round of 32          | Ecuador                  vs Norway                   | 53.9% / 24.5%        | Ecuador
+Match 79   | Round of 32          | Mexico                   vs Scotland                 | 71.0% / 12.7%        | Mexico
+Match 80   | Round of 32          | England                  vs Germany                  | 60.3% / 22.8%        | England
+Match 81   | Round of 32          | United States            vs Bosnia and Herzegovina   | 72.0% / 11.7%        | United States
+Match 82   | Round of 32          | Belgium                  vs Czech Republic           | 71.6% / 12.2%        | Belgium
+Match 83   | Round of 32          | Portugal                 vs Croatia                  | 58.3% / 24.7%        | Portugal
+Match 84   | Round of 32          | Spain                    vs Algeria                  | 68.7% / 14.3%        | Spain
+Match 85   | Round of 32          | Switzerland              vs Germany                  | 51.9% / 29.5%        | Switzerland
+Match 86   | Round of 32          | Argentina                vs Uruguay                  | 66.6% / 16.1%        | Argentina
+Match 87   | Round of 32          | Colombia                 vs Australia                | 64.5% / 17.6%        | Colombia
+Match 88   | Round of 32          | Paraguay                 vs Egypt                    | 43.2% / 31.2%        | Paraguay
+---------------------------------------------------------------------------------------------------------------------------
+Match 89   | Round of 16          | Ivory Coast              vs France                   | 27.8% / 55.6%        | France
+Match 90   | Round of 16          | South Korea              vs Netherlands              | 35.2% / 43.9%        | Netherlands
+Match 91   | Round of 16          | Brazil                   vs Ecuador                  | 67.8% / 15.5%        | Brazil
+Match 92   | Round of 16          | Mexico                   vs England                  | 50.1% / 34.2%        | Mexico
+Match 93   | Round of 16          | Portugal                 vs Spain                    | 47.9% / 37.1%        | Portugal
+Match 94   | Round of 16          | United States            vs Belgium                  | 52.2% / 29.5%        | United States
+Match 95   | Round of 16          | Argentina                vs Paraguay                 | 72.5% / 11.4%        | Argentina
+Match 96   | Round of 16          | Switzerland              vs Colombia                 | 51.7% / 29.7%        | Switzerland
+---------------------------------------------------------------------------------------------------------------------------
+Match 97   | Quarter-finals       | France                   vs Netherlands              | 57.8% / 25.1%        | France
+Match 98   | Quarter-finals       | Portugal                 vs United States            | 60.9% / 21.6%        | Portugal
+Match 99   | Quarter-finals       | Brazil                   vs Mexico                   | 59.7% / 23.7%        | Brazil
+Match 100  | Quarter-finals       | Argentina                vs Switzerland              | 64.5% / 18.3%        | Argentina
+---------------------------------------------------------------------------------------------------------------------------
+Match 101  | Semi-finals          | France                   vs Portugal                 | 58.4% / 24.4%        | France
+Match 102  | Semi-finals          | Brazil                   vs Argentina                | 48.5% / 37.3%        | Brazil
+---------------------------------------------------------------------------------------------------------------------------
+Match 103  | Third Place Playoff  | Portugal                 vs Argentina                | 45.9% / 39.5%        | Portugal
+---------------------------------------------------------------------------------------------------------------------------
+Match 104  | Final                | France                   vs Brazil                   | 57.1% / 25.7%        | France
+===========================================================================================================================
