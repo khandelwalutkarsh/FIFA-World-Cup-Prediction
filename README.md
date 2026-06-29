@@ -1,8 +1,6 @@
-# FIFA World Cup 2026 Prediction Project
-
-An end-to-end machine learning pipeline that uses historical match data (1930–2022) and current international ratings to forecast the 2026 tournament match outcomes.
-
-## Summary of Model Performance
-* **Best Performing Model:** Logistic Regression achieved the highest classification accuracy of **~58.7%** on the 2022 World Cup validation split.
-* **Alternative Model Assessment:** The Random Forest Classifier heavily overfit the historical training sets, dropping down to **~41.3%** accuracy on the test set.
-* **Data Pipeline Integrity:** Built a custom mapping dictionary (e.g., standardizing "USA" to "United States") to handle structural string mismatches, ensuring a 0% missing value rate post-merge.
+### 5-Line Project Summary
+1. **Best Model Performance:** Logistic Regression yielded our optimal validation accuracy of ~58.7%, heavily outperforming an overfitted Random Forest model (~41.3%).
+2. **Feature Engineering Insights:** Calculating head-to-head FIFA ranking differentials and Elo rating gaps served as the most powerful predictive indicators for match outcomes.
+3. **Data Pipeline Integrity:** Implemented custom mapping dictionaries to resolve structural team-name string mismatches, successfully achieving a 0% missing value rate post-merge.
+4. **Dynamic Bracket Correction:** Successfully engineered a recursive advancement simulation that parses exact match IDs, preventing team duplicates across all 104 tournament slots.
+5. **Phase-Agnostic Engine:** Dynamically switches operational logic to support 3-way probabilistic splits for Group stages and zero-draw single-eliminations for Knockout phases.
